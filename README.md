@@ -44,5 +44,5 @@ Funciones:
 
 ## Contacto
 
-LinkedIn: ...
-Correo: ...
+LinkedIn: www.linkedin.com/in/michael-suarez-7804911a9
+Correo: miyamidsuarez@gmail.com
